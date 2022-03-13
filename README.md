@@ -1,6 +1,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lolrafael&show_icons=true&theme=dark)
 <br>
-# Hi there, I'm Jesse - aka [codeSTACKr][youtube] 👋 
+# Oi! Meu nome é Rafael e eu estou cursando Sistemas de Informação! 👋 
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
@@ -8,15 +8,6 @@
 
 [![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/codestackr.codestackr-theme?label=codeSTACKr%20VS%20Code%20Theme&logo=visualstudiocode&logoColor=ff652f&style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=codestackr.codestackr-theme)
 [![Become A VS Code SuperHero](https://img.shields.io/badge/-Become%20A%20VS%20Code%20SuperHero%20%E2%86%92-gray.svg?colorB=ff652f&style=for-the-badge)](https://vsCodeHero.com)
-
-### Social:
-
-[website](./img/youtube-light.svg)](https://youtube.com/budokslol#gh-light-mode-only)&nbsp;&nbsp;
-[website](./img/twitter-light.svg)](https://twitter.com/budokslol#gh-light-mode-only)&nbsp;&nbsp;
-[website](./img/linkedin-light.svg)](https://www.linkedin.com/in/rafaoli/#gh-light-mode-only)
-[website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/rafaoli/#gh-dark-mode-only)&nbsp;&nbsp;
-[website](./img/instagram-light.svg)](https://instagram.com/budokslol#gh-light-mode-only)
-[website](./img/instagram-dark.svg)](https://instagram.com/budokslol#gh-dark-mode-only)
 
 ### Languages:
 
