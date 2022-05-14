@@ -1,6 +1,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lolrafael&show_icons=true&theme=dark)
 
-# Oi! Sou o Rafael e estou cursando Sistemas de Informação! 👋 
+# I'm studying Front-end development! 👋 
 
 ### Languages:
 
